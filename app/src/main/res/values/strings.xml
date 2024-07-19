@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">admobApp</string>
+
+    <string name="ADMOB_ADS_TEST">ca-app-pub-3940256099942544/2247696110</string>
+
+    <string name="ADMOB_ADS_UNIT_ID">ca-app-pub-3207185251183279/2936365314</string>
+    <string name="ad_attribution">Ad</string>
+</resources>
